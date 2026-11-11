@@ -1,0 +1,6 @@
+limiar,vertices,arestas,vertices_isolados,componentes_conectados,tamanho_maior_componente
+0.4,1297,767,830,884,323
+0.5,1297,119,1223,1246,18
+0.6,1297,40,1262,1272,12
+0.7,1297,23,1278,1285,6
+0.8,1297,20,1284,1288,6
